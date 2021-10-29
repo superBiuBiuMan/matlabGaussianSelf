@@ -15,4 +15,5 @@ Matlab实现高斯模糊非库函数
 
 3.依次循环
 
-4.结束
+4.结束(附一张效果图)
+![image](https://raw.githubusercontent.com/1464815392/matlabGaussianSelf/main/%E9%AB%98%E6%96%AF%E7%BB%93%E6%9E%9C.png)
